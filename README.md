@@ -1,5 +1,68 @@
-# Web-Development-Bootcamp
-Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps
+# Web Development Course
 
+![GitHub repo size](https://img.shields.io/github/repo-size/giovananog/web-development-course?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/giovananog/web-development-course?style=for-the-badge)
 
-<div class="component-margin what-you-will-learn--what-will-you-learn--1nBIT"><h2 class="ud-heading-xl what-you-will-learn--title--2ztwE">Content</h2><div class="what-you-will-learn--content-spacing--3n5NU"><ul class="ud-unstyled-list ud-block-list what-you-will-learn--objectives-list--eiLce what-you-will-learn--objectives-list-two-column-layout--rZLJy"><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Learn the latest technologies, including Javascript, React, Node and even Web3 development.</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">After the course you will be able to build ANY website you want.</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Build fully-fledged websites and web apps for your startup or business.</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Work as a freelance web developer.</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Master frontend development with React</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Master backend development with Node</span></div></div></li><li><div data-purpose="objective" class="ud-block-list-item ud-block-list-item-small ud-block-list-item-tight ud-block-list-item-neutral ud-text-sm"><svg aria-hidden="true" focusable="false" class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-block-list-item-icon"><use xlink:href="#icon-tick"></use></svg><div class="ud-block-list-item-content"><span class="what-you-will-learn--objective-item--3b4zX">Learn professional developer best practices.</span></div></div></li></ul></div></div>
+<br><br>
+<img src="https://seeklogo.com/images/U/udemy-wordmark-logo-5BA74BCA61-seeklogo.com.png" alt="udemy" width="200">
+
+> This repository contains the projects and materials developed during the "The Complete 2024 Web Development Bootcamp" course from Udemy.
+
+<br><br>
+
+## 🖥️ Course Content
+
+Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3, and DApps. The course covers:
+
+1. **HTML and CSS Fundamentals**
+   - Learn to create web pages with HTML and style them with CSS.
+
+2. **JavaScript**
+   - Master JavaScript to make your web pages interactive.
+
+3. **Frontend Development with React**
+   - Build dynamic and responsive user interfaces using React.
+
+4. **Backend Development with Node**
+   - Create robust servers and APIs with Node.js and Express.
+
+5. **Database Management with PostgreSQL**
+   - Manage data using the PostgreSQL database management system.
+
+6. **Web3 and DApps Development**
+   - Explore decentralized development with Web3 and DApps.
+
+7. **Professional Practices**
+   - Learn professional development best practices.
+
+## 📁 Repository Structure
+
+The repository is organized into sections, each reflecting a different project from the course:
+
+- `Band Generator Project`: Band name generator.
+- `Dicee Challenge`: Dice game.
+- `Drum Kit Project`: Drum kit simulator.
+- `Keeper App Project (React)`: Note-taking app using React.
+- `Middleware Project`: Middleware project.
+- `Passing Data Project`: Data passing practice project.
+- `PostgreSQL Projects`: Projects using PostgreSQL.
+- `QR Code Project`: QR code generator.
+- `REST APIs Project`: RESTful APIs creation.
+- `Secrets Project`: Secrets storage application.
+- `Simon Game`: Simon memory game.
+- `essential js`: Essential JavaScript fundamentals.
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Web3
+
+## 🌐 Course URL
+
+[Udemy Course: The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
