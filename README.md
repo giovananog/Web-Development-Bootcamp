@@ -12,7 +12,7 @@
 
 ## 🖥️ Course Content
 
-Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3, and DApps. The course covers:
+The course covers:
 
 1. **HTML and CSS Fundamentals**
    - Learn to create web pages with HTML and style them with CSS.
